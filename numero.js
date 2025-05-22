@@ -18,7 +18,7 @@ function jogar() {
         jogar();
 
     } else{
-        alert(`Parabéns! Você deixou de ser burro ${tentativas} tentativas!`);
+        alert(`Parabéns! Você você ganhou! ${tentativas} tentativas!`);
     }
     }
 jogar();
